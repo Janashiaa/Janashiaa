@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on creating websites
-- 📫 How to reach me? xosow@gmail.com
+- 📫 How to reach me? davitjanashia3@gmail.com
 
 <!---
 Janashiaa/Janashiaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
