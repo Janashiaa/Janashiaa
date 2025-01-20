@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Janashiaa
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning angular
-- 💞️ I’m looking to collaborate on creating websites
-- 📫 How to reach me? davitjanashia3@gmail.com
+- I’m Davit Janashia.
+- I’m currently learning angular.
+- Looking for interesting jobs.
+- Contact Information:
+- djanashia3@gmail.com
+- 510 10 10 62
 
 <!---
 Janashiaa/Janashiaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
